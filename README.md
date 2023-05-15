@@ -2,7 +2,8 @@
 
 Buscando novos desafios, estudo React Js com objetivo de criar aplicações web, e melhorar meus conhecimentos em Javascript, atualmente possuo as seguintes habilidades abaixo, onde aprendo constatemente a cada novo projeto.
 
-- 🌱 Estudando (HTML, CSS, JS E REACT JS)
+- 🎖️ Habilidades (HTML, CSS E JS)
+- 🌱 Estudando (REACT JS, GIT)
 - 🔥 Buscando Desafios
 
 
