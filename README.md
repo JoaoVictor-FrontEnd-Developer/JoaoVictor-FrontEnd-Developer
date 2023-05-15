@@ -1,8 +1,6 @@
 ### Olá, Eu sou o João Victor
 
-
-- 🔭 Hoje trabalho como Designer
-- 🌱 Estudando (HTML, CSS E JS)
+- 🌱 Estudando (HTML, CSS, JS E REACT JS)
 - 🔥 Buscando Desafios
 
 
