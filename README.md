@@ -2,8 +2,8 @@
 
 Buscando novos desafios, estudo React Js com objetivo de criar aplicações web, e melhorar meus conhecimentos em Javascript, atualmente estou cursando Engenharia de Software pela UNOPAR e paralelamente faço o curso de desenvolvimento Web FullStack do ProgramadorBR.
 
-- 🎖️ Habilidades (HTML, CSS E JS)
-- 🌱 Estudando (REACT JS, GIT)
+- 🎓 Habilidades (HTML, CSS, BOOTSTRAP E JS)
+- 🌱 Estudando (REACT JS, FIREBASE, GIT)
 - 🔥 Buscando Desafios
 
 
