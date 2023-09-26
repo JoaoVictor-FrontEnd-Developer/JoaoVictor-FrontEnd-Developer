@@ -1,6 +1,6 @@
 ### Olá, Eu sou o João Victor
 
-Buscando novos desafios, estudo React Js com objetivo de criar aplicações web, e melhorar meus conhecimentos em Javascript, atualmente estou cursando Engenharia de Software pela UNOPAR e paralelamente faço o curso de desenvolvimento Web FullStack do ProgramadorBR.
+Buscando novos desafios, estudo React Js com objetivo de criar aplicações web, e melhorar meus conhecimentos em Javascript, atualmente faço o curso de desenvolvimento Web FullStack do ProgramadorBR.
 
 - 🎓 Habilidades (HTML, CSS, BOOTSTRAP E JS)
 - 🌱 Estudando (REACT JS, FIREBASE, GIT)
